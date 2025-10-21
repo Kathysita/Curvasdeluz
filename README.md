@@ -1,0 +1,2 @@
+# Curvasdeluz
+Proyecto de pasantía. 
